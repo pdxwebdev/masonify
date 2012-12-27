@@ -1,9 +1,13 @@
 {
   "name": "masonify",
-  "description": "A dynamic layout plugin for jQuery",
+  "description": "A dynamic layout plugin for jQuery now for nodejs",
   "version": "2.1.06",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pdxwebdev/masonify.git"
+  },
   "author": {
-    "name": "David DeSandro"
+    "name": "Matt Vogel"
   },
   "engines": {
     "node": "*"
